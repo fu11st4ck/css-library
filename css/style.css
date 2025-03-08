@@ -47,3 +47,7 @@ h6, .h6 {
 p, .p {
     font-size: 1rem;
 }
+
+.hello-world {
+    text-align: center;
+}
